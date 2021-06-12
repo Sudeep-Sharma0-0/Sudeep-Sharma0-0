@@ -6,9 +6,9 @@
 ### 🛠 &nbsp;Interests and Learning
 ![Arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=arch-linux)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141a20?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue)\
+![Sqlite](https://img.shields.io/badge/-SQLite-141a20?style=flat&logo=sqlite&logoColor=blue);
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp\
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
 ![vim](https://img.shields.io/badge/-Vim-141a20?style=flat&logo=vim)&nbsp;
