@@ -15,7 +15,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 [![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=Sudeep-Sharma0-0&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
 
