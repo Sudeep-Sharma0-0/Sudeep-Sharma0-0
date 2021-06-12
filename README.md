@@ -21,6 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-sharma.sudip1122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sharma.sudip1122@gmail.com)
-[![facebook](https://img.shields.io/badge/-Sudeep Sharma-D14836?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sudeep.sharma.50702)
+[![gmail](https://img.shields.io/badge/-sharma.sudip1122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sharma.sudip1122@gmail.com)\
+[![facebook](https://img.shields.io/badge/-Sudeep Sharma-D14836?style=flat&logo=Facebook&logoColor=blue)](https://www.facebook.com/sudeep.sharma.50702)
 
