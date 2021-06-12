@@ -23,5 +23,5 @@
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-sharma.sudip1122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sharma.sudip1122@gmail.com)&nbsp;
 
-![facebook](https://img.shields.io/badge/-Sudeep Sharma-D14836?style=flat&logo=Facebook&logoColor=blue)
+[![facebook](https://img.shields.io/badge/-Sudeep%20Sharma-D14836?style=flat&logo=Facebook&logoColor=blue)](https://www.facebook.com/sudeep.sharma.50702)
 
