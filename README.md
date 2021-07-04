@@ -9,7 +9,6 @@
 ### 🛠 &nbsp;Interests and Learning
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
-  Archlinux
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
@@ -22,7 +21,7 @@
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/html5.png"/>
-</a>
+</a><br><br>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
 </a>
@@ -37,7 +36,7 @@
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/javascript.png"/>
-</a>
+</a><br><br>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/reactjs.png"/>
 </a>
@@ -52,7 +51,7 @@
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/visualstudiocode.png"/>
-</a>
+</a><br><br>
 
 [![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=Sudeep-Sharma0-0&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
