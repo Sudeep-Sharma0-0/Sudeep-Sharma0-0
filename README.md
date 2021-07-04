@@ -17,7 +17,7 @@
   <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gradle.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
+  <img align="left" alt="Arch Linux" width="40px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/html5.png"/>
