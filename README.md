@@ -41,7 +41,7 @@
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/reactjs.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellij.png"/>
+  <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sublimetext.png"/>
