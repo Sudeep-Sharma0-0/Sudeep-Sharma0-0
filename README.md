@@ -8,34 +8,34 @@
 
 ### 🛠 &nbsp;Interests and Learning
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gradle.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gradle.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="40px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/html5.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/html5.png"/>
 </a><br><br>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/git.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/git.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Arch Linux" width="30px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/javascript.png"/>
+  <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/javascript.png"/>
 </a><br><br>
 <a href="#">
   <img align="left" alt="Arch Linux" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/reactjs.png"/>
