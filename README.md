@@ -3,7 +3,10 @@
 - 🏚️ I'm from Nepal, Asia.
 - 🌱 I’m currently learning Java.
 
-![Followers](https://img.shields.io/github/followers/Sudeep-Sharma0-0?style=social)\
+<a href="#">
+  <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
+</a> 
+![Followers](https://img.shields.io/github/followers/Sudeep-Sharma0-0?style=flat)\
 ![Views](https://img.shields.io/github/watchers/Sudeep-Sharma0-0/Sudeep-Sharma0-0?style=social)
 
 ### 🛠 &nbsp;Interests and Learning
