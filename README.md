@@ -67,5 +67,5 @@
   <img align="left" alt="sudeep's Facebook" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/facebook.png" />
 </a>
 <a href="mailto:sharma.sudip1122@gmail.com">
-  <img align="left" alt="Gmail" width="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gmail.png" />
+  <img align="left" alt="Gmail" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gmail.png" />
 </a>
