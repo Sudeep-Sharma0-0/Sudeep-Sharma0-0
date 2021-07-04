@@ -30,7 +30,7 @@
 </a>
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
-</a>&nsbp;
+</a>&nsbp
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
 </a>
