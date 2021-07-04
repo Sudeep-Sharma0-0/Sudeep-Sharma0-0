@@ -9,7 +9,7 @@
 ### 🛠 &nbsp;Interests and Learning
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
-</a>&nbsp
+</a>
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
 </a>
