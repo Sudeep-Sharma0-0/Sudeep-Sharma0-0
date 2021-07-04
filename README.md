@@ -57,12 +57,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-sharma.sudip1122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sharma.sudip1122@gmail.com)&nbsp;
-
-[![facebook](https://img.shields.io/badge/-Sudeep%20Sharma-D14836?style=flat&logo=Facebook&logoColor=blue)](https://www.facebook.com/sudeep.sharma.50702)
-
 <a href="https://twitter.com/SudipSharma101">
-  <img align="left" alt="Sudeep Sharma | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Sudeep Sharma | Twitter" width="21px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/twitter.png" />
 </a>
 <a href="https://discord.com/channels/@me/613770557686546434">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
