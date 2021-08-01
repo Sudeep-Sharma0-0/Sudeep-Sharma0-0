@@ -37,6 +37,9 @@
 <a href="#">
   <img align="left" alt="SQL" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
 </a>
+<a href="#">
+  <img align="left" alt="Python" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/python.png"/>
+</a>
 <br><br><br>
 <a href="#">
   <img align="left" alt="Intellij" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
@@ -49,7 +52,11 @@
 </a>
 <a href="#">
   <img align="left" alt="VS Code" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/visualstudiocode.png"/>
-</a><br><br><br>
+</a>
+<a href="#">
+  <img align="left" alt="C#" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/C#.png"/>
+</a>
+<br><br><br>
 
 [![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=Sudeep-Sharma0-0&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
