@@ -10,51 +10,51 @@
 
 ### 🛠 &nbsp;Interests and Learning
 <a href="#">
-  <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
+  <img align="left" alt="Arch Linux" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/archlinux.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Java" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
+  <img align="left" alt="Java" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/java.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Gradle" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gradle.png"/>
+  <img align="left" alt="Gradle" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/gradle.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Maven" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
+  <img align="left" alt="Maven" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
 </a>
 <a href="#">
-    <img align="left" alt="C++" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/c++.png"/>
+    <img align="left" alt="C++" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/c++.png"/>
 </a>
 <br><br><br>
 <a href="#">
-  <img align="left" alt="CSS" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
+  <img align="left" alt="CSS" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Git" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/git.png"/>
+  <img align="left" alt="Git" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/git.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Github" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
+  <img align="left" alt="Github" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/github.png"/>
 </a>                                  
 <a href="#">
-  <img align="left" alt="SQL" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
+  <img align="left" alt="SQL" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Python" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/python.png"/>
+  <img align="left" alt="Python" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/python.png"/>
 </a>
 <br><br><br>
 <a href="#">
-  <img align="left" alt="Intellij" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
+  <img align="left" alt="Intellij" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
 </a>
 <a href="#">
-  <img align="left" alt="Sublimetext" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sublimetext.png"/>
+  <img align="left" alt="Sublimetext" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sublimetext.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="Vim" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/vim.png"/>
+  <img align="left" alt="Vim" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/vim.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="VS Code" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/visualstudiocode.png"/>
+  <img align="left" alt="VS Code" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/visualstudiocode.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="C#" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/53933fd10a7e3ab0735f4d8434eacbf78e4a5315/Icon%20SVG/c%23.png"/>
+  <img align="left" alt="C#" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/53933fd10a7e3ab0735f4d8434eacbf78e4a5315/Icon%20SVG/c%23.png"/>
 </a>
 <br><br><br>
 
