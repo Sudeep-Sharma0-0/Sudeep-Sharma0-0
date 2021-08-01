@@ -54,7 +54,7 @@
   <img align="left" alt="VS Code" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/visualstudiocode.png"/>
 </a>
 <a href="#">
-  <img align="left" alt="C#" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/C#.png"/>
+  <img align="left" alt="C#" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/53933fd10a7e3ab0735f4d8434eacbf78e4a5315/Icon%20SVG/c%23.png"/>
 </a>
 <br><br><br>
 
