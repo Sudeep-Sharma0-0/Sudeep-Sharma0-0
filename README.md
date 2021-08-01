@@ -34,12 +34,7 @@
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
 </a>
-<a href="#">
-  <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/javascript.png"/>
-</a><br><br><br>
-<a href="#">
-  <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/reactjs.png"/>
-</a>
+<br><br><br>
 <a href="#">
   <img align="left" alt="Arch Linux" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
 </a>
