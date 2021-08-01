@@ -65,7 +65,7 @@
 <a href="https://twitter.com/SudipSharma101">
   <img align="left" alt="Sudeep Sharma | Twitter" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/twitter.png" />
 </a>
-<a href="https://discord.com/channels/@me/613770557686546434">
+<a href="https://discordhub.com/profile/613770557686546434">
   <img align="left" alt="Sudeep's Discord" height="50px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/discord.png" />
 </a>
 <a href="https://www.facebook.com/sudeep.sharma.50702">
