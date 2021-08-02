@@ -21,9 +21,6 @@
 <a href="#">
   <img align="left" alt="Maven" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/maven.png"/>
 </a>
-<a href="#">
-    <img align="left" alt="C++" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/c++.png"/>
-</a>
 <br><br><br>
 <a href="#">
   <img align="left" alt="CSS" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/css3.png"/>
@@ -36,9 +33,6 @@
 </a>                                  
 <a href="#">
   <img align="left" alt="SQL" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sqlite.png"/>
-</a>
-<a href="#">
-  <img align="left" alt="Python" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/python.png"/>
 </a>
 <br><br><br>
 <a href="#">
