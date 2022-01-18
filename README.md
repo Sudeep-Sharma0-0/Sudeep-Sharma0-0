@@ -39,9 +39,6 @@
   <img align="left" alt="Intellij" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/intellijidea.svg"/>
 </a>
 <a href="#">
-  <img align="left" alt="Sublimetext" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/sublimetext.png"/>
-</a>
-<a href="#">
   <img align="left" alt="Vim" height="60px" src="https://github.com/Sudeep-Sharma0-0/Sudeep-Sharma0-0/blob/master/Icon%20SVG/vim.png"/>
 </a>
 <a href="#">
