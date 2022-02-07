@@ -49,7 +49,6 @@
 [![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=Sudeep-Sharma0-0&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&theme=gotham&layout=compact)](https://github.com/Sudeep-Sharma0-0/github-readme-stats)
 <br>
-[![sudeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sudeep_Sharma&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 &nbsp;Connect with Me
 <a href="https://twitter.com/SudipSharma101">
