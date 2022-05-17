@@ -1,4 +1,6 @@
-<h3 align="center"> ━━━━━━━━━━  ❖  ━━━━━━━━━━ </h3>
+
+
+<h3 align="center">   ━━━━━━━━━━━━━━━━ ⊱⁜⊰ ━━━━━━━━━━━━━━━━   </h3>
 
 <div align="center">
   <img width="50" src="https://user-images.githubusercontent.com/83217673/158658408-afc0e021-6b4f-49f8-a616-514fb46d0376.gif">
@@ -31,5 +33,41 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%20-Proficient%20in-16262C?label=&style=for-the-badge">
   <br/><br/>
-  <img src="Icons/archlinux.svg">
+  <img src="https://img.shields.io/badge/%20-Arch%20Linux-16262C?logo=archlinux&style=for-the-badge">
+  <img src="https://img.shields.io/badge/%20-HTML%205-16262C?logo=html5&style=for-the-badge">
+  <img src="https://img.shields.io/badge/%20-CSS%203-16262C?logo=css3&style=for-the-badge&logoColor=blue">
+  <img src="https://img.shields.io/badge/%20-GNU%20Emacs-16262C?logo=gnuemacs&style=for-the-badge&logoColor=lightpurple">
+  <img style="position: relative;" src="https://img.shields.io/badge/%20-Vim-16262C?logo=vim&style=for-the-badge&logoColor=green">
+  <img style="position: relative;" src="https://img.shields.io/badge/%20-Git-16262C?logo=git&style=for-the-badge">
 </div>
+
+<br>
+<h3 align="center"> ━━━━━━━━━━  ❖  ━━━━━━━━━━ </h3>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Skills-16262c?style=for-the-badge">
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-0e1e25?style=for-the-badge&&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/Leadership-50ae94?style=for-the-badge&&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/Deep%20Learning-0e1e25?style=for-the-badge&&logoColor=ffffff&labelColor=282828">
+  <img src="https://img.shields.io/badge/Workflow%20Management-50ae94?style=for-the-badge&logoColor=50ae94&labelColor=282828">
+  <br/><br/>
+</div>
+
+#
+
+<div align="center">
+  <img width="50" src="https://user-images.githubusercontent.com/83217673/158729771-8367e7df-78ef-4521-9de4-b210cfd9984c.gif">
+  <br/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stats-16262c?style=for-the-badge">
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sudeep-Sharma0-0&hide_border=true&hide_title=true&bg_color=00000000&color=C6FFDD&line=50ae94&point=007770&area=true"(https://github.com/ashutosh00710/github-readme-activity-graph)>
+</div>
+
+<h3 align="center">   ━━━━━━━━━━━━━━━━ ⊱⁜⊰ ━━━━━━━━━━━━━━━━   </h3>
