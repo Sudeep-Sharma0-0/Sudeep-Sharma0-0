@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sudeep-Sharma0-0&hide_border=true&hide_title=true&bg_color=00000000&color=C6FFDD&line=50ae94&point=007770&area=true"(https://github.com/ashutosh00710/github-readme-activity-graph)>
+  [![Sudeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudeep-Sharma0-0&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="center">
