@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/Stats-16262c?style=for-the-badge">
 </div>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep-Sharma0-0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
