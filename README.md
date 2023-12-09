@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sudeep-Sharma0-0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeep-Sharma0-0&theme=dracula">
 </div>
 
 <div align="center">
